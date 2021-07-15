@@ -7,6 +7,7 @@ def Lucky(a,l):
             if (j-i)==l:
                 count+=1
     return count
+
 def main():
     a=[]
     s=int(input("Enter the Number of products : ")) #Types of products
