@@ -42,4 +42,4 @@ if __name__=='__main__':
 	plt.plot(a, b, color='black',linewidth = 3,marker='o', markerfacecolor='red', markersize=8)
 	plt.show()
 
-#This code is contributed by ash264
+#This code is contributed by ash264 + Graph plotting by me(@TzuyusForgottenLuggage on Git)
